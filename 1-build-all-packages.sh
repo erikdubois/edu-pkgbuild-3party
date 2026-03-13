@@ -21,6 +21,8 @@
 #
 ##################################################################################################################
 
+# Count number of repositories first
+total_repos=$(find . -maxdepth 1 -type d -name '*' ! -name '.' | wc -l)
 
 echo
 tput setaf 12
