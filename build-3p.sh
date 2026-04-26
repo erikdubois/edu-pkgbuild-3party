@@ -26,7 +26,7 @@
 
 git pull
 
-destination1=$HOME"/DATA/EDU/nemesis_repo/x86_64/"
+destination1=$HOME"/EDU/nemesis_repo/x86_64/"
 
 destiny=$destination1
 
